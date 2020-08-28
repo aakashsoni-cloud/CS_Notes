@@ -1,0 +1,12 @@
+It includes
+
+-> Containers
+-> Algorithms
+-> Iterator & functions
+
+
+Type of Containers: 
+     1) Sequence Containers
+     2) Container adaptors
+     3) Associate adaptors
+     4) Unordered Associate adaptors
